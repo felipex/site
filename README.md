@@ -1,5 +1,6 @@
 ## Exemplo de página
-Feito totalmente com Markdown.
+Feito totalmente com Markdown. 
+Aqui tem um outra [página](teste.md) 
 
 ## Welcome to GitHub Pages
 
