@@ -1,7 +1,7 @@
 ## Exemplo de página
 Feito totalmente com Markdown. 
 
-Aqui tem um outra [página](/site/teste.md) 
+Aqui tem um outra [página](/teste.md) 
 
 ## Welcome to GitHub Pages
 
